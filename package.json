@@ -1,0 +1,13 @@
+{
+  "name": "ISHAN-MD",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp MD bot by Ishan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "dotenv": "^16.3.1"
+  }
+}
